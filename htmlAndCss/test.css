@@ -11,7 +11,7 @@
 .boton {
   padding: 12px 36px;
   cursor: pointer;
-  border: none;
+  border: 3px solid;
   background: #0066b2;
   font-size: 20px;
   margin: 200px 100px;
